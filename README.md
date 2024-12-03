@@ -98,4 +98,4 @@ The dataset (`SuperStore_Sales_Dataset.csv`) contains:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/SuperStore-Sales-Dashboard.git
+   git clone https://github.com/Vansh-1007/SuperStore-Sales-Dashboard.git
