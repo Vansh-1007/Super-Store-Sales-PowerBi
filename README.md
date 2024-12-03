@@ -90,7 +90,9 @@ The dataset (`SuperStore_Sales_Dataset.csv`) contains:
 
 ## 📊 Dashboard Snapshots
 
-![Dashboard](path/to/dashboard/image.png)
+You can view the complete dashboard in the linked PDF below:
+
+[📄 View Full Dashboard PDF](https://github.com/Vansh-1007/Super-Store-Sales-PowerBi/blob/main/Sales%20Report.pdf)
 
 ---
 
